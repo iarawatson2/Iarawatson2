@@ -1,6 +1,6 @@
 ### Olá eu sou a Iara Maria 👋
 
-- 👩🏽‍💻 Hoje trabalho com fron-end. 
+- 👩🏽‍💻 Hoje trabalho com front-end. 
 - 📘 Aprofundando conhecimento em typeScript.
 - 📫 Contate-me no email: hiara_2008@hotmail.com
 

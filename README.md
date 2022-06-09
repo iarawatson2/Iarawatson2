@@ -1,4 +1,4 @@
-### Olá eu sou a Iara Maria 👋
+### Olá, eu sou a Iara Maria 👋
 
 - 👩🏽‍💻 Hoje trabalho com front-end. 
 - 📘 Aprofundando conhecimento em typeScript.

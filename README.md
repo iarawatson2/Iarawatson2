@@ -2,6 +2,7 @@
 
 - 👩🏽‍💻 Hoje trabalho com front-end. 
 - 📘 Aprofundando conhecimento em typeScript.
+- 🌱 Utilizando bit bucket na Accenture (Por isso a inatividade na plataforma).
 - 📫 Contate-me no email: hiara_2008@hotmail.com
 
 <div align="center">

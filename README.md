@@ -1,8 +1,7 @@
 ### Olá, eu sou a Iara Maria 👋
 
-- 👩🏽‍💻 Hoje trabalho com front-end. 
-- 📘 Aprofundando conhecimento em typeScript.
-- 🌱 Utilizando bit bucket na Accenture (Por isso a inatividade na plataforma).
+- 👩🏽‍💻 Hoje trabalho com Java. 
+- 📘 Aprofundando conhecimento.
 - 📫 Contate-me no email: hiara_2008@hotmail.com
 
 <div align="center">

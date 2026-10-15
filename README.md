@@ -2,7 +2,7 @@
 
 - 👩🏽‍💻 Hoje trabalho com Java. 
 - 📘 Aprofundando conhecimento.
-- 📫 Contate-me no email: hiara_2008@hotmail.com
+- 📫 Contate-me no email: iara.dev@outlook.com
 
 <div align="center">
   <a href="https://github.com/iarawatson2">
